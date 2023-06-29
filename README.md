@@ -19,20 +19,36 @@ Es una calculadora simple para realizar operaciones matematicas basicas: sumar, 
 # ESTRUCTURA DEL PROYECTO
 
 calculadora/
+
   ├── src/
+  
   │   ├── components/
+  
   │   │   └── Boton.js
+  
   │   │   └── BotonClear.js
+  
   │   │   └── Pantalla.js
+  
   │   ├── hojas-de-estilo/
+  
   │   │   └── Boton.css
+  
   │   │   └── BotonClear.css
+  
   │   │   └── Pantalla.css
+  
   │   ├── App.js
+  
   │   └── index.js
+  
   ├── public/
+  
   ├── package.json
+  
   └── README.md
+  
+  
 
 
 # CONTACTO
